@@ -1,0 +1,3 @@
+/mnt/c/Users/nasho/GitHub/AIBAREngine/build/CMakeFiles/AIBAR.dir
+/mnt/c/Users/nasho/GitHub/AIBAREngine/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/nasho/GitHub/AIBAREngine/build/CMakeFiles/rebuild_cache.dir
